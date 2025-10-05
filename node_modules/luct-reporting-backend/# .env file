@@ -1,0 +1,7 @@
+# .env file
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=12345678
+DB_NAME=luct_reporting_system
+JWT_SECRET=luct_super_secret_jwt_key_2024
+PORT=5000

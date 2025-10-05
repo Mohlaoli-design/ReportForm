@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.main-content {
+  min-height: calc(100vh - 60px);
+  padding: 20px;
+}
+
+/* Global styles for the App component */
+
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222222;
+  margin-bottom: 15px;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

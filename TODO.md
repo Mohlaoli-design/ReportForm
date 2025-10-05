@@ -1,0 +1,6 @@
+- [x] Set up MySQL database using setup script
+- [x] Install backend dependencies
+- [x] Start backend server
+- [ ] Install frontend dependencies
+- [ ] Start frontend server
+- [ ] Test the application
